@@ -119,3 +119,5 @@ fastify.get("/fotos", (request, reply) => {
     })
   });
 ```
+
+[Return to Homepage](https://pozawa1.github.io/)
